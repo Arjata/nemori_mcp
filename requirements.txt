@@ -1,0 +1,4 @@
+mcp[cli]
+mcpo
+pip-system-certs
+python-dotenv
